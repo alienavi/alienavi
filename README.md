@@ -8,9 +8,14 @@
 
 ### 📫 How to reach me
 [🌐][website]
-[📧][rahul@hatchnhack.com]
+[📧][mail]
 
 <!---
 alienavi/alienavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[github_profile]: https://github.com/alienavi
+[work_web]: https://hatchnhack.com
+[website]: https://alienavi.com
+[mail]: mailto:rahul@hatchnhack.com
