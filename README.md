@@ -1,4 +1,4 @@
-###👋 Hi, I’m Rahul Sharma - aka [alienavi][github_profile]
+### 👋 Hi, I’m Rahul Sharma - aka [alienavi][github_profile]
 
 ## I'm an Entrepreneur, Developer, Tinkerer, and Teacher!
 - 🏢 I'm currently working on [HatchnHack][work_web] : a nest to your ideas...
