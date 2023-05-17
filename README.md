@@ -1,8 +1,8 @@
 ### 👋 Hi, I’m Rahul Sharma - [alienavi][github_profile]
 
 [![Website](https://img.shields.io/website?label=alienavi.com&style=for-the-badge&url=https%3A%2F%2Falienavi.com)](https://alienavi.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hnhfounder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falienavi&screen_name=hnhfounder)
-[![Instagram Follow](https://img.shields.io/badge/HnHFounder-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hnhfounder)
+[![Twitter Follow](https://img.shields.io/twitter/follow/alienavi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falienavi&screen_name=hnhfounder)
+[![Instagram Follow](https://img.shields.io/badge/alienavi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hnhfounder)
 
 ## I'm an Entrepreneur, Developer, Tinkerer, and Teacher!
 - 🏢 I'm currently working on [HatchnHack][work_web] : a nest to your ideas...
