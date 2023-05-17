@@ -5,7 +5,7 @@
 [![Instagram Follow](https://img.shields.io/badge/alienavi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alienavi4)
 
 ## I'm an Entrepreneur, Developer, Tinkerer, and Teacher!
-- 🏢 I'm currently working on [HatchnHack][work_web] : a nest to your ideas...
+- 🏢 I'm currently working on Reinventing the Semiconductor Supply Chain
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on projects focusing SDGs
 - ✨ Fun fact: I love drawing and cooking
