@@ -15,7 +15,7 @@
 [<img align="left" alt="alienavi | Twitter" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-twitter-1024.png" />][twitter]
 [<img align="left" alt="alienavi | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" />][linkedin]
 [<img align="left" alt="alienavi | Instagram" width="22px" src="https://raw.githubusercontent.com/wle8300/instagram-logo/master/logo.svg" />][instagram]
-[<img align="left" alt="alienavi | Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-1024.png" />][mail]
+[<img align="left" alt="alienavi | Mail" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-1024.png" />][mail]
 
 <br />
 
@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 [github_profile]: https://github.com/alienavi
 [work_web]: https://hatchnhack.com
 [website]: https://alienavi.com
-[twitter]: https://twitter.com/hnhfounder
-[linkedin]: https://linkedin.com/in/hnhfounder
-[instagram]: https://instagram.com/hnhfounder
-[mail]: mailto:rahul@hatchnhack.com
+[twitter]: https://twitter.com/alienavi4
+[linkedin]: https://linkedin.com/in/alienavi
+[instagram]: https://instagram.com/alienavi4
+[mail]: mailto:rahul@alienavi.com
