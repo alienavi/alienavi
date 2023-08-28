@@ -6,7 +6,7 @@
 
 ## I'm an Entrepreneur, Developer, Tinkerer, and Teacher!
 - 🏢 I'm currently working on Reinventing the Semiconductor Supply Chain
-- 🌱 I’m currently learning everything
+- 🌱 I’m always learning everything
 - 💞️ I’m looking to collaborate on projects focusing SDGs
 - ✨ Fun fact: I love drawing and cooking
 
