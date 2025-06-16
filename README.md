@@ -23,7 +23,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-1024.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico" />
 <img align="left" alt="GitHub" width="26px" src="https://www.python.org/static/favicon.ico" />
-<img align="left" alt="GitHub" width="26px" src="https://www.nginx.com/wp-content/uploads/2019/10/favicon-64x46.ico" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.shopify.com/static/shopify-favicon.png" />
 
 <br />
