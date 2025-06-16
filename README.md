@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=alienavi.com&style=for-the-badge&url=https%3A%2F%2Falienavi.com)](https://alienavi.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/alienavi4?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falienavi&screen_name=alienavi4)
-[![Instagram Follow](https://img.shields.io/badge/alienavi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alienavi4)
 
 ## I'm an Entrepreneur, Developer, Tinkerer, and Teacher!
 - 🏢 I'm currently working on Reinventing the Semiconductor Supply Chain
@@ -14,7 +13,6 @@
 [<img align="left" alt="alienavi.com" width="22px" src="https://cdn2.iconfinder.com/data/icons/whcompare-isometric-web-hosting-servers/50/connected-globe-1024.png" />][website]
 [<img align="left" alt="alienavi | Twitter" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-twitter-1024.png" />][twitter]
 [<img align="left" alt="alienavi | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" />][linkedin]
-[<img align="left" alt="alienavi | Instagram" width="22px" src="https://raw.githubusercontent.com/wle8300/instagram-logo/master/logo.svg" />][instagram]
 [<img align="left" alt="alienavi | Mail" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-1024.png" />][mail]
 
 <br />
