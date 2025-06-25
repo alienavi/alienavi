@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/alienavi4?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falienavi&screen_name=alienavi4)
 
 ## I'm an Entrepreneur, Developer, Tinkerer, and Teacher!
-- 🏢 I'm currently working on Reinventing the Semiconductor Supply Chain
+- 🏢 I'm currently getting my MBA
 - 🌱 I’m always learning everything
 - 💞️ I’m looking to collaborate on projects focusing SDGs
 - ✨ Fun fact: I love drawing and cooking
